@@ -6,3 +6,5 @@ Key techniques applied:
 &emsp;Time Series Analysis: Evaluation of +61% growth in consortia adoption (2020-2024) due to macroeconomic factors.  
 &emsp;Market Segmentation: Classification of the most popular financed goods and regional market trends.  
 &emsp;Linear Regression: Identify data behavior throughout time.  
+  
+Note: Shape files for Python graphs were too big to upload.
